@@ -1,0 +1,8 @@
+server_1
+*.exe
+bin/
+tmp/
+.git/
+*.log
+.DS_Store
+README.md
